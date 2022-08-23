@@ -3,7 +3,7 @@
   
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 Atualmente estudando: JSs
+- 🌱 Atualmente estudando: JS
 - 📫 E-mail: glsousa@uol.com.br 
 
 <div align="center">
