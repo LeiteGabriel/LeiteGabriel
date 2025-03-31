@@ -1,15 +1,13 @@
 ### Olá! Eu sou o Gabriel Leite
 
   
-
-<!-- 🔭 I’m currently working on ... -->
-- 🌱 Atualmente estudando: JS
-- 📫 E-mail: glsousa@uol.com.br 
+- 🌱 Atualmente estudando: Ciência da Dados
+- 📫 E-mail: sousa.gleite@gmail.com
 
 <div align="center">
   <a href="https://github.com/LeiteGabriel">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeiteGabriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiteGabriel&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeiteGabriel&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiteGabriel&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,5 +22,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/LeiteGabriel/LeiteGabriel/blob/output/github-contribution-grid-snake.svg)
